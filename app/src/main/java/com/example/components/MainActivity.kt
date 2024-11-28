@@ -706,7 +706,7 @@ private fun ScreenDetails(photo: String, onBackClicked: () -> Unit) {
             )
 
             Spacer(modifier = Modifier.height(18.dp))
-            Text("Photo details", fontSize = 18.sp, modifier =
+            Text("Photo ", fontSize = 20.sp, modifier =
             Modifier.padding(8.dp))
         }
     }
